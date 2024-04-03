@@ -1,6 +1,6 @@
-# Lesson 1
+# Lesson 1: Basic job submission, monitoring, and removal
 
-Basic job submission, monitoring, and deletion through the use of slurm. Submit a job with:
+Submit a job with:
 
 ```
 sbatch submit.sh
