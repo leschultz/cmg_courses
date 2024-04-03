@@ -4,7 +4,7 @@ sub_file=submit.sh
 # Simple bash function
 wait_here()
 {
-        echo $(printf "%0.s-" {1..79})
+    echo $(printf "%0.s-" {1..79})
 	local mes=$1
 	echo $1
 	echo $(printf "%0.s-" {1..79})
